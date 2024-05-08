@@ -1,0 +1,88 @@
+h1 {
+    margin: auto;
+    margin-top: 10px;
+}
+
+h2 {
+    margin: auto;
+    margin-top: 10px;
+}
+
+iframe {
+    height: 170px;
+    width: 165px;
+    scale: 1;
+}
+
+.video {
+    width: 360px;
+    height: 200px;
+}
+
+.day {
+    margin-left: 120px;
+}
+
+.cashflow {
+    margin-left: 120px;
+}
+.cashchart {
+    width: 255px;
+}
+
+.history {
+    height: 1055px;
+    width: 924px;
+    scale: .8;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+
+.container {
+    border-radius: 10px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(70, 196, 196);
+    font-family: 'felix titling';
+    color: black;
+}
+
+body {
+    padding: 0%;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items:  center;
+    justify-content: center;
+    font-size: 18px;
+    background-size: cover;
+    background-position: center;
+    background-color: white;
+    }
+
+.button {
+    border-radius: 100px;
+    margin-top: 10px;
+}
+
+form {
+    margin: auto;
+}
+
+.cashonhand {
+    width: 102px;
+    height: 21px;
+}
+
+label {
+    vertical-align: top;
+}
+
+button {
+    margin-top: 5px;
+}
