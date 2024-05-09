@@ -31,7 +31,9 @@ iframe {
 
 .history {
     height: 1055px;
-    width: 500px;
+    width: 400px;
+    border-width: 5px;
+    border-radius: 10px;
 }
 
 img {
@@ -53,7 +55,7 @@ img {
 body {
     padding: 20px;
     margin: auto;
-    height: 200vh;
+    height: 100vh;
     display: flex;
     align-items:  center;
     justify-content: center;
