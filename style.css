@@ -51,7 +51,7 @@ img {
 }
 
 body {
-    padding: 0%;
+    padding: 20px;
     margin: auto;
     height: 100vh;
     display: flex;
